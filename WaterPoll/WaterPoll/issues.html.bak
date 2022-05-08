@@ -85,9 +85,9 @@
           <div class="col-lg-12">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">Pasay</li>
+              <li data-filter=".filter-card">Cavite</li>
+              <li data-filter=".filter-web">Parañaque</li>
             </ul>
           </div>
         </div>
@@ -101,7 +101,21 @@
                 <h4><a href="portfolio-details.html">Barangay 183</a></h4>
                 <p>Pasay City</p>
                 <div>
-                  <a href="assets/img/portfolio/pasay.jpg" data-gallery="portfolioGallery" title="Improper waste disposals leading for the surface water to have darker hue, also having its surroundings covered with solid wastes. " class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
+                  <a href="assets/img/portfolio/pasay.jpg" data-gallery="portfolioGallery" title="Photo courtesy of Barangay 183 Villamor, Pasay" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
+                  <a href="solutions.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/bacoor.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4><a href="portfolio-details.html">Bacoor City</a></h4>
+                <p>Cavite</p>
+                <div>
+                  <a href="assets/img/portfolio/bacoor.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="•Sewage and Wastewater – effect of waste directly discarded into waterways"><i class="bi bi-plus"></i></a>
                   <a href="solutions.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
@@ -109,20 +123,6 @@
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Web 3</a></h4>
-                <p>Web</p>
-                <div>
-                  <a href="assets/img/portfolio/web3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/paranaque.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -157,8 +157,8 @@
                 <h4><a href="portfolio-details.html">Annex 35</a></h4>
                 <p>Parañaque City</p>
                 <div>
-                  <a href="assets/img/portfolio/web2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
-                  <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                  <a href="assets/img/portfolio/paranaqueannex.png" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Polluted creek in Annex 35 Subdivision"><i class="bi bi-plus"></i></a>
+                  <a href="solutions.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                 </div>
               </div>
             </div>
