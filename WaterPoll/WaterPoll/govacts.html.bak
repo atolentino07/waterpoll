@@ -73,14 +73,14 @@
 
         <header class="section-header">
           <h3>Government laws / activities</h3>
-          <p>This list contains laws/activities made by the local government to answer water pollution</p>
+          <p>This list contains laws/activities made by the national and international government to answer water pollution</p>
         </header>
 
         <div class="row justify-content-center">
 
           <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="100">
             <div class="box">
-              <h4 class="title"><a href="">Philippine Clean Water Act of 2004 (R.A. 9275)</a></h4>
+              <h4 class="title"><a href="https://r12.emb.gov.ph/ra-9275-the-philippine-clean-water-act/" target="_blank">Philippine Clean Water Act of 2004 (R.A. 9275)</a></h4>
               <p class="description">aims to protect, preserve and revive all bodies of water in the Philippines. This was also made to have a proper quality monitoring water rehabilitation programs and education about water pollution to conserve the Philippine waters.</p>
             </div>
           </div>
