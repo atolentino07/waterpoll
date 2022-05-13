@@ -81,7 +81,7 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/paranaqueannexSol.png" alt="">
+                  <img src="assets/img/portfolio/paranaqueannex.png" alt="">
                 </div>
 				
 				<div class="swiper-slide">
@@ -106,18 +106,20 @@
             <div class="portfolio-info">
               <h3>Community Issues</h3>
               <ul>
-                <li><strong>Photos taken in</strong>: <br> Parañaque(Tambo, Annex 35), Bacoor, and Pasay</li>
-                <li><strong>Primary issues</strong>: <br> Wastes directly discarded into waterways,<br> non-point sources, </li>
-                <li><strong>Proposed solutions</strong>: <br> proper waste management, <br> stormwater management, <br> plastic water reduction</li>
+                <li><strong>Photos taken from</strong>: <br> • Parañaque(Tambo, Annex 35) <br> • Bacoor <br> • Pasay</li>
+                <li><strong>Primary issues</strong>: <br> • wastes directly discarded into waterways,<br> • improper waste disposals, <br> • non-point sources, </li>
+                <li><strong>Proposed solutions</strong>: <br> • proper waste management <br> • stormwater management <br> • plastic water reduction <br>• clean-up drive <br> • accessible waste outlets <br> • sanctions to violators of improper waste disposals <br> • HOA to coordinate with respective barangays <br> • have the creeks cemented</li>
                 <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
-              <h2>This is an example of portfolio detail</h2>
+              <h2>Solution summary</h2>
               <p>
-                Autem ipsum nam porro corporis rerum. 
-				Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. 
-				Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+               For the given communities sharing similar issues, the group that took the initiative to present water pollution in a certain area proposed the given solutions.
+			   Most important of which are proper waste management, following with stormwater management to reduce runoff rainwaters, plastic water reduction, clean-up drive, 
+			   additional accessibility on waste outlets, sanctions on violators of improper waster disposals, and rebuilding the creeks cemented so that further debris cannot contaminate the area. 
+			   These solutions can all be possible also with the coordination of each community's LGU's involved. 
+			   
 				
               </p>
             </div>
